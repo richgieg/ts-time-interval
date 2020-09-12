@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Time interval helper class and functions for TypeScript",
   "author": "Richard Gieg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richgieg/ts-time-interval.git"
+  },
   "license": "MIT",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
