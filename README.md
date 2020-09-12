@@ -27,9 +27,9 @@ Creating `TimeInterval` instances directly. Constructor expects a number represe
 ```
 import { TimeInterval } from 'ts-time-interval';
 
-const s = new TimeInterval(1000);
-const m = new TimeInterval(60000);
-const sum = s.add(m);
+const a = new TimeInterval(60000);
+const b = new TimeInterval(60000);
+const sum = a.add(b);
 
 console.log(sum.minutes); // prints "2"
 ```
