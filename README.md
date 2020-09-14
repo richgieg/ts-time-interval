@@ -11,7 +11,7 @@ npm install ts-time-interval
 ## Example #1
 Using the helper functions to create `TimeInterval` instances.
 
-```
+```js
 import { seconds, minutes } from 'ts-time-interval';
 
 const s = seconds(60);
@@ -24,7 +24,7 @@ console.log(sum.minutes); // prints "2"
 ## Example #2
 Creating `TimeInterval` instances directly. Constructor expects a number representing milliseconds.
 
-```
+```js
 import { TimeInterval } from 'ts-time-interval';
 
 const a = new TimeInterval(60000);
