@@ -4,7 +4,7 @@ Time interval helper class and functions for TypeScript
 
 ## Installation
 
-```
+```sh
 npm install ts-time-interval
 ```
 
