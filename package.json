@@ -1,6 +1,6 @@
 {
   "name": "ts-time-interval",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Time interval helper class and functions for TypeScript",
   "author": "Richard Gieg",
   "repository": {
